@@ -1,0 +1,143 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+  line-height: 1.5;
+}
+
+/* Скидання підкреслення для посилань */
+a {
+  text-decoration: none;
+}
+
+/* Скидання стилю маркерів для списків */
+ul,
+ol {
+  list-style-type: none;
+  padding: 0; /* Опціонально, для видалення відступу у списках */
+  margin: 0; /* Опціонально, для видалення відступу у списках */
+}
+.page-header {
+}
+.header-nav {
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo .logo-part {
+  color: #2e2f42;
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.contacts {
+  font-style: normal;
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.contacts-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts-link:hover,
+.contacts-link:focus,
+.nav-link:hover,
+.nav-list:focus {
+  color: #404bbf;
+}
+
+.hero {
+  background: #2e2f42;
+}
+.hero-title {
+  font-size: 56px;
+  line-height: 1.1;
+}
+.hero-btn {
+  background: #4d5ae5;
+}
+.hero-btn:hover {
+  background: #404bbf;
+  cursor: pointer;
+}
+.main {
+}
+.main-title {
+}
+.maim-list {
+}
+.main-item {
+}
+.main-subtitle {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.main-text {
+}
+.team {
+  background: #f4f4fd;
+}
+.team-title {
+  font-size: 36px;
+  line-height: 1.1;
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+  font-size: 20px;
+  line-height: 1.11111;
+}
+.team-text {
+}
+.portfolio {
+}
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.1;
+}
+.portfolio-list {
+}
+.pottfolio-item {
+  font-size: 20px;
+}
+.portfolio-link {
+}
+.portfolio-img {
+}
+.portfolio-subtitle {
+  line-height: 1.2;
+}
+.portfolio-text {
+}
+
+.footer {
+  background: #2e2f42;
+}
+.footer-text {
+}
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
